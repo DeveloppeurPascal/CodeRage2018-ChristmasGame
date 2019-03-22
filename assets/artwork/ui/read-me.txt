@@ -1,0 +1,6 @@
+Licence for images used in this game.
+
+From The Game Creators in "christmas-graphics-set" :
+progress-bar-back.png
+
+All material is copyrighted. Don't use it in your projects without asking the right to do it to their authors.

@@ -1,0 +1,18 @@
+Licence for images used in this game.
+
+From The Game Creators in "christmas-graphics-set" :
+heart-80x80.png
+heart-160x160.png
+
+From @DavitMasia and @CodeManuPro at Twitter :
+8_protectioncircle_spritesheet.png
+16_sunburn_spritesheet.png
+Pixel FX Designer: https://codemanu.itch.io/particle-fx-designer
+
+From CartoonSmart.com :
+Acme_Bomb.png
+
+From NicheEmpires.com in "150_Megs_Christmas_Pack_RR" :
+Gifts005.png
+
+All material is copyrighted. Don't use it in your projects without asking the right to do it to their authors.

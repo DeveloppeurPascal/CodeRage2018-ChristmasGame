@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/11/24 19:38:23.000.857,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 13:47:46.000.376,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 13:48:19.000.696,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\fMain.fmx=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2018/11/25 13:48:19.000.696,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\fMain.pas=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 13:48:27.000.336,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\christmasgame.dproj=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/11/25 13:56:25.000.412,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 13:56:45.000.139,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\fButton.fmx=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.fmx</Transaction>
+    <Transaction>2018/11/25 13:56:45.000.139,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\fButton.pas=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 14:03:12.000.085,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\fButton.pas=</Transaction>
+    <Transaction>2018/11/25 14:03:53.000.197,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 14:05:33.000.941,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\fMyButton.fmx=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.fmx</Transaction>
+    <Transaction>2018/11/25 14:05:33.000.941,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\fMyButton.pas=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 14:09:03.000.064,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 14:11:31.000.182,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\fSprite.fmx=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.fmx</Transaction>
+    <Transaction>2018/11/25 14:11:31.000.182,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\fSprite.pas=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 14:11:58.000.157,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 14:13:26.000.366,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\fSprite.pas=</Transaction>
+    <Transaction>2018/11/25 14:14:00.000.569,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 14:14:31.000.343,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\fMySprite.fmx=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.fmx</Transaction>
+    <Transaction>2018/11/25 14:14:31.000.343,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\fMySprite.pas=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 14:16:11.000.816,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 14:16:22.000.519,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\fMyGoodSprite.fmx=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.fmx</Transaction>
+    <Transaction>2018/11/25 14:16:22.000.519,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\fMyGoodSprite.pas=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 14:17:54.000.661,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 14:18:54.000.840,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\fMyBadSprite.fmx=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.fmx</Transaction>
+    <Transaction>2018/11/25 14:18:54.000.840,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\fMyBadSprite.pas=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 14:45:55.000.098,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 14:47:36.000.781,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\fMyLife.pas=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 14:47:36.000.781,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\fMyLife.fmx=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.fmx</Transaction>
+    <Transaction>2018/11/25 14:59:47.000.329,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 15:00:33.000.561,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\dmScores.dfm=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.dfm</Transaction>
+    <Transaction>2018/11/25 15:00:33.000.561,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\dmScores.pas=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 15:08:05.000.508,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\dmScores.pas=</Transaction>
+    <Transaction>2018/11/25 15:11:00.913,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 15:11:13.030,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\dmScores.pas=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 15:11:13.030,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\dmScores.dfm=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\CodeRage2018\ChristmasGame\app\Unit1.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMBPbureau iOSSimulator="iPhone5" iOSDevice64="_iosdevice_4735ab942d82a0a75d28785082e67b230f810e02"/>
+		<NoProfile Android="0123456789ABCDEF"/>
+	</ActiveMobileDevice>
+</BorlandProject>
