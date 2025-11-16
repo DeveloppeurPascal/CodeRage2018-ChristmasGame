@@ -1,36 +1,93 @@
-# "Christmas Game" for Embarcadero Code Rage 2018
+# "Christmas Game" for the Code Rage 2018 conference by Embarcadero
 
-Source du jeu "Christmas Game" réalisé sous Delphi 10.3 Rio lors du Code Rage 2018 pour Embarcadero.
+[Cette page en français.](LISEZMOI.md)
 
-Les rediffusions et des infos complémentaires sont disponibles sur Serial Streameur à l'adresse https://serialstreameur.fr/jv-christmas-game.php
-Vous pouvez également en savoir plus sur le code depuis le blog https://developpeur-pascal.fr/p/_3007-christmas-game-for-code-rage-2018.html
+> [!WARNING]
+> Following Microsoft's decision to merge GitHub into its AI division in the summer of 2025 and therefore to consider what we publish on it only as a source of training for its models without any compensation (apart from hosting the source codes) or to bombard us with their injunctions to use Copilot everywhere, for everything and anything, I have decided to stop maintaining the repositories here.
+>
+> Maintenance of this project has been moved to Codeberg at https://codeberg.org/PatrickPremartin/ChristmasGame-CodeRage2018
+>
+> Codeberg is a community-based hosting service located in Europe that respects developers, the license of each project, and the privacy of those who connect to it.
 
------
+Source code for the “Christmas Game” created using Delphi 10.3 Rio during Code Rage 2018 for Embarcadero.
 
-This folder contains a project created for my Code Rage 2018 session on creating a multi-device game with no coding skills.
+This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
 
-To look the session record, access to Code Rage 2018 for free at [Embarcadero Academy](https://vasur.fr/coderage2018) or from [Serial Streameur](https://serialstreameur.fr/jv-christmas-game.php).
+## Using this video game
 
-You need Delphi and FireMonkey if you want to open, edit and compile this project.
-Download a trial or the Community Edition from https://www.embarcadero.com/
+Visit [the Christmas Game 2018 website](https://christmasgame.gamolf.fr) to download the compiled version, learn more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
 
-You can freely use this project as a game template but you don't have the right to use the images in it.
+## Talks and conferences
 
-Contact me at https://developpeur-pascal.fr/contact/ if you have any question.
+### Online talk
 
-(c) 12/2018 Patrick Prémartin / Olf Software
+* [Easy coding a multi-device game with FireMonkey (how-to version)](https://apprendre-delphi.fr/easy-coding-a-multi-device-game-with-firemonkey-how-to-version.html) (in English)
+* [Easy coding a multi-device game with FireMonkey (review code version)](https://apprendre-delphi.fr/easy-coding-a-multi-device-game-with-firemonkey-review-code-version.html) (in English)
 
------
+### Twitch
 
-Si vous ne connaissez pas Delphi et le langage Pascal, profitez de la version Academic (pour les étudiants, enseignants et établissements d'enseignement) ou Community Edition (gratuite pour une utilisation personnelle) disponibles chez Embarcadero (rubrique "outils gratuits").
-En entreprise vous pouvez aussi tester Delphi avec la version d'évaluation.
-https://www.embarcadero.com/products/delphi
+Follow my development streams of software, video games, mobile applications and websites on [my Twitch channel](https://www.twitch.tv/patrickpremartin) or as replays on [Serial Streameur](https://serialstreameur.fr) mostly in French.
 
-Cette formation en ligne gratuite vous apprendra les bases de la programmation avec le Pascal et Delphi même si vous n'avez jamais appris à programmer :
-https://apprendre-delphi.fr/apprendre-la-programmation-avec-delphi/
+## Source code installation
 
-Des conférences en ligne et des webinaires (points techniques sur des sujets précis) sont organisés régulièrement. Consultez [le planning de ces webinaires](https://developpeur-pascal.fr/p/_6007-webinaires.html) et regardez les [rediffusions des webinaires Delphi](https://serialstreameur.fr/webinaires-delphi.php).
+To download this code repository, we recommend using "git", but you can also download a ZIP file directly from [its GitHub repository](https://github.com/DeveloppeurPascal/CodeRage2018-ChristmasGame).
 
-Des sessions de [live coding sur Twitch](https://www.twitch.tv/patrickpremartin) ou [la chaîne YouTube Developpeur Pascal](https://www.youtube.com/channel/UCk_LmkBB90jdEdmfF77W6qQ) sont également organisées régulièrement. Pour Twitch vous pouvez consulter [le planning hebdomadaire](https://www.twitch.tv/patrickpremartin/schedule). Vous pouvez aussi vous reporter à [cet article](https://developpeur-pascal.fr/p/_600e-livestreams-de-codage-en-direct-avec-delphi.html). Pour les rediffusions de tout ça, rendez-vous simplement dans la [rubrique live coding](https://serialstreameur.fr/live-coding.php) de [Serial Streameur](https://serialstreameur.fr/) où vous trouverez de nombreuses vidéos en français à destination des développeurs de logiciels, applications mobiles, sites web et jeux vidéo.
+## Documentation and support
 
-Enfin, si vous préférez la lecture à la vidéo, vous trouverez tous les livres récents publiés sur Delphi et le langage Pascal sur [Delphi Books](https://delphi-books.com)
+I use comments in [XMLDOC](https://docwiki.embarcadero.com/RADStudio/en/XML_Documentation_Comments) format in Delphi to document my projects. They are recognized by Help Insight, which offers real-time input help in the code editor.
+
+I regularly use the [DocInsight](https://devjetsoftware.com/products/documentation-insight/) tool to enter them and check their formatting.
+
+Documentation is exported in HTML by [DocInsight](https://devjetsoftware.com/products/documentation-insight/) or [PasDoc](https://pasdoc.github.io) to the /docs folder of the repository.
+
+Further information (tutorials, articles, videos, FAQ, talks and links) can be found on [the project website](https://christmasgame.gamolf.fr) or [the project devlog](https://developpeur-pascal.fr/christmas-game-for-code-rage-2018.html).
+
+If you need explanations or help in understanding or using parts of this project in yours, please [contact me](https://developpeur-pascal.fr/nous-contacter.php). I can either direct you to an online resource, or offer you assistance in the form of a paid or free service, depending on the case. You can also contact me at a conference or during an online presentation.
+
+## Compatibility
+
+As an [Embarcadero MVP](https://www.embarcadero.com/resources/partners/mvp-directory), I benefit from the latest versions of [Delphi](https://www.embarcadero.com/products/delphi) and [C++ Builder](https://www.embarcadero.com/products/cbuilder) in [RAD Studio](https://www.embarcadero.com/products/rad-studio) as soon as they are released. I therefore work with these versions.
+
+Normally, my libraries and components should also run on at least the current version of [Delphi Community Edition](https://www.embarcadero.com/products/delphi/starter).
+
+There's no guarantee of compatibility with earlier versions, even though I try to keep my code clean and avoid using too many of the new ways of writing in it (type inference, inline var and multiline strings).
+
+If you detect any anomalies on earlier versions, please don't hesitate to [report them](https://github.com/DeveloppeurPascal/CodeRage2018-ChristmasGame/issues) so that I can test and try to correct or provide a workaround.
+
+## License to use this code repository and its contents
+
+This source code is distributed under the [AGPL 3.0 or later](https://choosealicense.com/licenses/agpl-3.0/) license.
+
+You are free to use the contents of this code repository anywhere provided :
+* you mention it in your projects
+* distribute the modifications made to the files provided in this AGPL-licensed project (leaving the original copyright notices (author, link to this repository, license) must be supplemented by your own)
+* to distribute the source code of your creations under the AGPL license.
+
+If this license doesn't suit your needs (especially for a commercial project) I also offer [classic licenses for developers and companies](https://christmasgame.gamolf.fr).
+
+Some elements included in this repository may depend on third-party usage rights (images, sounds, etc.). They are not reusable in your projects unless otherwise stated.
+
+The source codes of this code repository as well as any compiled version are provided “as is” without warranty of any kind.
+
+## How to ask a new feature, report a bug or a security issue ?
+
+If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the GitHub repository](https://github.com/DeveloppeurPascal/CodeRage2018-ChristmasGame) and [open a new issue](https://github.com/DeveloppeurPascal/CodeRage2018-ChristmasGame/issues).
+
+If you found a security issue please don't report it publicly before a patch is available. Explain the case by [sending a private message to the author](https://developpeur-pascal.fr/nous-contacter.php).
+
+You also can fork the repository and contribute by submitting pull requests if you want to help. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+## Support the project and its author
+
+If you think this project is useful and want to support it, please make a donation to [its author](https://github.com/DeveloppeurPascal). It will help to maintain this project and all others.
+
+You can use one of those services :
+
+* [GitHub Sponsors](https://github.com/sponsors/DeveloppeurPascal)
+* Ko-fi [in French](https://ko-fi.com/patrick_premartin_fr) or [in English](https://ko-fi.com/patrick_premartin_en)
+* [Patreon](https://www.patreon.com/patrickpremartin)
+* [Liberapay](https://liberapay.com/PatrickPremartin)
+
+You can buy an end user license for [my softwares](https://lic.olfsoftware.fr/products.php?lng=en) and [my video games](https://lic.gamolf.fr/products.php?lng=en) or [a developer license for my libraries](https://lic.developpeur-pascal.fr/products.php?lng=en) if you use them in your projects.
+
+I'm also available as a service provider to help you use this or other projects, such as software development, mobile applications and websites. [Contact me](https://vasur.fr/about) to discuss.
